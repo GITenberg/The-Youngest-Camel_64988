@@ -1,0 +1,27 @@
+_repo: The-Youngest-Camel_64988
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kredel, Fritz
+    birthdate: 1900
+    deathdate: 1973
+    gutenberg_agent_id: '40388'
+    url: http://www.gutenberg.org/2009/agents/40388
+creator:
+  author:
+    agent_name: Boyle, Kay
+    gutenberg_agent_id: '53132'
+    url: http://www.gutenberg.org/2009/agents/53132
+description: ''
+gutenberg_issued: '2021-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Youngest Camel
+url: http://www.gutenberg.org/ebooks/64988
